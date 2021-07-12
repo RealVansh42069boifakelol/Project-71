@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    scroll-behavior:smooth;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+img{
+    width:200px;
+    height:200px;
+}
+#contact{
+    text-align: left;
+}
+#rickroll{
+ margin-bottom: 10px;
+ 
+}
+.line{
+    width: 6px;
+    background-color: black;
+}
+.givespacemarginbottom{
+  margin-bottom:3px;
+}
+.imggivespace{
+  margin-bottom:5px;
+}
+
+#alumni{
+  text-align:left;
+}
+#principal{
+    text-align: center;
+    margin-left: 100px;
+}
+#aco{
+    margin-left: 50px;
+    
+}
+#change{
+    color:red;
+    font-size: medium;
+}
+#contact{
+    text-align: center;
+}
